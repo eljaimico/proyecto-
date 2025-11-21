@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Trabajo3",
+    "slug": "trabajo3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "android": {
+      "package": "com.juandavid.trabajo3"
+    },
+    "ios": {
+      "bundleIdentifier": "com.juandavid.trabajo3"
+    },
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "demo-project-id"
+      }
+    }
+  }
+}
