@@ -1,0 +1,74 @@
+{
+    "app_name": "TareasApp",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+
+    "tab_todo": "Tareas",
+    "tab_calendar": "Calendario",
+    "tab_achievements": "Logros",
+    "tab_profile": "Perfil",
+
+    "o": "o",
+
+    "login_title": "Iniciar Sesión",
+    "login_button": "Entrar",
+    "login_with": "Iniciar sesión con",
+    "login_with_google": "Google",
+    "login_with_facebook": "Facebook",
+    "login_no_account": "¿No tienes cuenta? Regístrate",
+    "login_all_fields_required": "Por favor, introduce correo y contraseña.",
+    "login_error_default": "Credenciales inválidas o error de conexión.",
+
+    "register_title": "Crear Cuenta",
+    "register_button": "Registrarse",
+    "register_all_fields_required": "Por favor, completa todos los campos.",
+    "register_passwords_do_not_match": "Las contraseñas no coinciden.",
+    "register_password_min_length": "La contraseña debe tener al menos 6 caracteres.",
+    "register_success_message": "Registro exitoso. ¡Bienvenido!",
+    "register_error_default": "Error al registrar. Inténtalo de nuevo.",
+
+    "email_placeholder": "Correo electrónico",
+    "password_placeholder": "Contraseña",
+    "confirm_password_placeholder": "Confirmar contraseña",
+    "name_placeholder": "Nombre completo",
+
+    "todo_tasks_pending": "Tareas pendientes",
+    "todo_new_task_placeholder": "Añadir nueva tarea...",
+    "todo_no_tasks": "¡No hay tareas pendientes! ¡Hora de descansar!",
+    "todo_fetch_error": "Error al cargar las tareas.",
+    "todo_add_error": "Error al añadir la tarea.",
+    "todo_update_error": "Error al actualizar la tarea.",
+    "todo_delete_error": "Error al eliminar la tarea.",
+    "todo_due_date": "Fecha límite",
+    "edit_task_title": "Editar Tarea",
+
+    "go_back": "Volver",
+    "settings_title": "Ajustes",
+    "settings_language": "Idioma",
+    "settings_about": "Acerca de TareasApp",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "confirm_delete_title": "¿Eliminar Tarea?",
+    "confirm_delete_message": "¿Estás seguro de que quieres eliminar esta tarea permanentemente?",
+    "auth_token_missing": "Token de autenticación faltante. Por favor, inicia sesión.",
+
+  
+
+    "achievements_title": "Logros",
+    "achievements_unlocked": "Disponible",
+    "achievements_locked": "Bloqueado",
+    "achievements_empty": "No hay logros disponibles por ahora.",
+
+    "ach_mock_first_step": "Primer Paso",
+    "ach_mock_first_step_desc": "Completa tu primera tarea.",
+
+    "ach_mock_streak": "Racha de 3 Días",
+    "ach_mock_streak_desc": "Mantente productivo durante 3 días seguidos.",
+
+    "ach_mock_master": "Maestro de Rutinas",
+    "ach_mock_master_desc": "Completa 20 tareas en un mes.",
+
+    "ach_mock_focus": "Enfoque Total",
+    "ach_mock_focus_desc": "Completa una tarea marcada como Difícil."
+}

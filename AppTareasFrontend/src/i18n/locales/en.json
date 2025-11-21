@@ -1,0 +1,76 @@
+{
+    "app_name": "TaskFlow",
+    
+    "tab_todo": "Tasks",
+    "tab_calendar": "Calendar",
+    "tab_achievements": "Achievements",
+    "tab_profile": "Profile",
+
+    "login_title": "Welcome Back",
+    "login_button": "Log In",
+    "login_no_account": "Don't have an account? Register",
+    "login_all_fields_required": "Please enter email and password.",
+    "login_error_default": "Login error. Please check your credentials.",
+    "login_with": "Log in with",
+    "login_with_google": "Log in with Google",
+    "login_with_facebook": "Log in with Facebook",
+
+    "register_title": "Create Account",
+    "register_button": "Register",
+    "name_placeholder": "Full Name",
+    "email_placeholder": "Email",
+    "password_placeholder": "Password",
+    "confirm_password_placeholder": "Confirm Password",
+    "register_success_message": "Registration successful. Welcome!",
+    "register_error_default": "Error while trying to register the user.",
+    "register_all_fields_required": "Please complete all fields.",
+    "register_passwords_do_not_match": "Passwords do not match.",
+    "register_password_min_length": "Password must be at least 6 characters long.",
+
+    "todo_tasks_pending": "Pending tasks",
+    "todo_new_task_placeholder": "Add new task...",
+    "todo_no_tasks": "No pending tasks! Time to rest!",
+    "todo_fetch_error": "Error loading tasks.",
+    "todo_add_error": "Error adding task.",
+    "todo_update_error": "Error updating task.",
+    "todo_delete_error": "Error deleting task.",
+    "todo_due_date": "Due Date",
+    "edit_task_title": "Edit Task",
+
+    "settings_title": "Settings",
+    "settings_language": "Language",
+    "settings_about": "About Us",
+
+    "function_in_progress_title": "Feature In Progress",
+    "function_in_progress_message": "We are working hard to integrate this feature. Please check back soon!",
+    "go_back": "Go Back",
+
+    "error": "Error",
+    "success": "Success",
+    "loading": "Loading...",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm_delete_title": "Delete Task?",
+    "confirm_delete_message": "Are you sure you want to permanently delete this task?",
+    "auth_token_missing": "Authentication token missing. Please log in.",
+    "o": "or",
+
+  
+
+    "achievements_title": "Achievements",
+    "achievements_unlocked": "Unlocked",
+    "achievements_locked": "Locked",
+    "achievements_empty": "No achievements yet.",
+
+    "ach_mock_first_step": "First Step",
+    "ach_mock_first_step_desc": "Complete your first task.",
+    
+    "ach_mock_streak": "3-Day Streak",
+    "ach_mock_streak_desc": "Stay productive for 3 days in a row.",
+    
+    "ach_mock_master": "Routine Master",
+    "ach_mock_master_desc": "Complete 20 tasks in one month.",
+    
+    "ach_mock_focus": "Total Focus",
+    "ach_mock_focus_desc": "Complete a task marked as Difficult."
+}

@@ -1,0 +1,74 @@
+{
+    "app_name": "TaskFlow",
+
+    "tab_todo": "Tâches",
+    "tab_calendar": "Calendrier",
+    "tab_achievements": "Réalisations",
+    "tab_profile": "Profil",
+
+    "login_title": "Bienvenue",
+    "login_button": "Se connecter",
+    "login_no_account": "Vous n'avez pas de compte ? Inscrivez-vous",
+    "login_all_fields_required": "Veuillez entrer votre e-mail et votre mot de passe.",
+    "login_error_default": "Erreur de connexion. Veuillez vérifier vos identifiants.",
+    "login_with": "Se connecter avec",
+    "login_with_google": "Se connecter avec Google",
+    "login_with_facebook": "Se connecter avec Facebook",
+
+    "register_title": "Créer un compte",
+    "register_button": "S'inscrire",
+    "name_placeholder": "Nom complet",
+    "email_placeholder": "E-mail",
+    "password_placeholder": "Mot de passe",
+    "confirm_password_placeholder": "Confirmer le mot de passe",
+    "register_success_message": "Inscription réussie. Bienvenue !",
+    "register_error_default": "Une erreur est survenue lors de la création du compte.",
+    "register_all_fields_required": "Veuillez remplir tous les champs.",
+    "register_passwords_do_not_match": "Les mots de passe ne correspondent pas.",
+    "register_password_min_length": "Le mot de passe doit contenir au moins 6 caractères.",
+
+    "todo_tasks_pending": "Tâches en attente",
+    "todo_new_task_placeholder": "Ajouter une nouvelle tâche...",
+    "todo_no_tasks": "Aucune tâche en attente ! Moment de repos !",
+    "todo_fetch_error": "Erreur lors du chargement des tâches.",
+    "todo_add_error": "Erreur lors de l'ajout de la tâche.",
+    "todo_update_error": "Erreur lors de la mise à jour de la tâche.",
+    "todo_delete_error": "Erreur lors de la suppression de la tâche.",
+    "todo_due_date": "Date limite",
+    "edit_task_title": "Modifier la tâche",
+
+    "settings_title": "Paramètres",
+    "settings_language": "Langue",
+    "settings_about": "À propos de TaskFlow",
+    "profile_logout": "Se déconnecter",
+
+    "error": "Erreur",
+    "success": "Succès",
+    "loading": "Chargement...",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "go_back": "Retour",
+    "confirm_delete_title": "Supprimer la tâche ?",
+    "confirm_delete_message": "Êtes-vous sûr de vouloir supprimer définitivement cette tâche ?",
+    "auth_token_missing": "Jeton d'authentification manquant. Veuillez vous connecter.",
+    "o": "ou",
+
+  
+
+    "achievements_title": "Réalisations",
+    "achievements_unlocked": "Débloqué",
+    "achievements_locked": "Bloqué",
+    "achievements_empty": "Aucune réalisation disponible pour le moment.",
+
+    "ach_mock_first_step": "Premier Pas",
+    "ach_mock_first_step_desc": "Complétez votre première tâche.",
+
+    "ach_mock_streak": "Série de 3 Jours",
+    "ach_mock_streak_desc": "Restez productif pendant 3 jours consécutifs.",
+
+    "ach_mock_master": "Maître des Habitudes",
+    "ach_mock_master_desc": "Complétez 20 tâches en un mois.",
+
+    "ach_mock_focus": "Concentration Totale",
+    "ach_mock_focus_desc": "Complétez une tâche marquée comme Difficile."
+}
